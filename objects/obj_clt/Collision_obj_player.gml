@@ -1,0 +1,1 @@
+game_restart(); //se o jogador encosta na clt, o jogo reinicia.
