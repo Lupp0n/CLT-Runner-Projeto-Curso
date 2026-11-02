@@ -4,4 +4,4 @@ randomise();
 x = choose (27, 153);
 y = choose (-32, -63);
 
-alarm[3] = tempo + 50;
+alarm[3] = tempo + 1200;

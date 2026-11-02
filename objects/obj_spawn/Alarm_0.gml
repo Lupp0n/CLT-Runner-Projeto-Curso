@@ -8,4 +8,4 @@ x = choose(27, 153);
 
 
 
-alarm[0] = tempo;
+alarm[0] = tempo + 40;

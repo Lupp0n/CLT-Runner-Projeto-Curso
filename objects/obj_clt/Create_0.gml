@@ -1,3 +1,5 @@
 //definindo a velocidade do objeto
-vel = 2;
+vel = 3;
 
+tempo = 60;
+alarm[0] = tempo;

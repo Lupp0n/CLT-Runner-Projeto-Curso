@@ -12,3 +12,11 @@ else if (x = 27) //senão, é 27, onde é mais pra esquerda
 	image_angle		= 0;
 	image_yscale	= 1;
 }
+
+
+if (vel >= 100)
+{
+	vel = 100;
+}
+
+show_debug_message(vel);

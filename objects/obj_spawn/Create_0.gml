@@ -1,11 +1,17 @@
+//var tempo
 tempo = 60;
 
+//alarme da clt
 alarm[0] = tempo + 40;
 
-alarm[1] = tempo + 10;
+//alarme da coxinha
+alarm[1] = tempo + 60;
 
-alarm[2] = tempo + 30;
+//alarme do chocolate
+alarm[2] = tempo + 450;
 
-alarm[3] = tempo + 50;
+//alarme do hamburguer
+alarm[3] = tempo + 1200;
 
-alarm[4] = tempo + 120;
+//alarme da batata
+alarm[4] = tempo + 200;

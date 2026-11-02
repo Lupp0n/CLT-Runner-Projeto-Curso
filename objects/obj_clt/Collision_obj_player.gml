@@ -1,1 +1,3 @@
-game_restart(); //se o jogador encosta na clt, o jogo reinicia.
+room_restart(); //se o jogador encosta na clt, a room reinicia.
+
+global.pontos = 0;
