@@ -1,6 +1,6 @@
-room_restart(); //se o jogador encosta na clt, a room reinicia.
+room_goto(rm_tela_final); //se o jogador encosta na clt, a room reinicia.
 
-global.pontos = 0;
+//global.pontos = 0;
 
 
 //a musica para quando o player encosta na clt
