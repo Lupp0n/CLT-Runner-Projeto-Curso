@@ -1,4 +1,4 @@
-if (y > room_height + 32)
+if (y > room_height + 64)
 {
-	y = -32;
+	y = -64;
 }

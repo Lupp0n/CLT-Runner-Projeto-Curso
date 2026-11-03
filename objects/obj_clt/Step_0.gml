@@ -1,4 +1,4 @@
-y += vel; // fazendo ele descer constantemente
+y += global.vel; // fazendo ele descer constantemente
 
 if (x = 153) 
 //mudando o angulo e a direção da sprite dependendo do valor do objeto no eixo x
@@ -14,9 +14,9 @@ else if (x = 27) //senão, é 27, onde é mais pra esquerda
 }
 
 
-if (vel >= 100)
-{
-	vel = 100;
-}
+//if (global.vel >= 10)
+//{
+//	global.vel = 10;
+//}
 
-show_debug_message(vel);
+show_debug_message(global.vel);

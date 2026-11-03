@@ -1,1 +1,1 @@
-global.pontos += 1
+//global.pontos += 0.10
