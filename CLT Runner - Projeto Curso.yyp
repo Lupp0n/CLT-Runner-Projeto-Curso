@@ -87,9 +87,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_tela_final","path":"rooms/rm_tela_final/rm_tela_final.yy",},},
     {"roomId":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
     {"roomId":{"name":"rm_gameplay","path":"rooms/rm_gameplay/rm_gameplay.yy",},},
+    {"roomId":{"name":"rm_tela_final","path":"rooms/rm_tela_final/rm_tela_final.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
