@@ -2,7 +2,7 @@
 tempo = 60;
 
 //alarme da clt
-alarm[0] = tempo + 40;
+alarm[0] = tempo;
 
 //alarme da coxinha
 alarm[1] = tempo + 60;
